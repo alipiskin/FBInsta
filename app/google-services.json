@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999952087812",
+    "firebase_url": "https://fbinsta-4f096.firebaseio.com",
+    "project_id": "fbinsta-4f096",
+    "storage_bucket": "fbinsta-4f096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999952087812:android:ef2227755c5b6c1e",
+        "android_client_info": {
+          "package_name": "com.afpsoft.fbinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999952087812-9q52m6js0oqq1k47er6fbed6al56777q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afpsoft.fbinsta",
+            "certificate_hash": "0a8d932e390ef3b24e683053b0ffdb667a97d560"
+          }
+        },
+        {
+          "client_id": "999952087812-cra0rnbb0169opbes0quurtj613rovi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfjcPr6f7CUHb4Vn0N0ZDzW8xS1F7mptg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999952087812-cra0rnbb0169opbes0quurtj613rovi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
